@@ -9,14 +9,14 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #c8e8e9;
+  background: #830005;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .container{
   width: 85%;
-  background: #fff;
+  background: #f98a14;
   border-radius: 6px;
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
@@ -44,7 +44,7 @@ body{
   right: -15px;
   top: 50%;
   transform: translateY(-50%);
-  background: #afafb6;
+  background: #ff8907;
 }
 .content .left-side .details{
   margin: 14px;
@@ -52,7 +52,7 @@ body{
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #3e2093;
+  color: #932020;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -62,7 +62,7 @@ body{
 .content .left-side .details .text-one,
 .content .left-side .details .text-two{
   font-size: 14px;
-  color: #afafb6;
+  color: #ff8907;
 }
 .container .content .right-side{
   width: 75%;
@@ -71,7 +71,7 @@ body{
 .content .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
-  color: #3e2093;
+  color: #430109;
 }
 .right-side .input-box{
   height: 50px;
@@ -107,12 +107,12 @@ body{
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: #3e2093;
+  background: #fec62b;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 .button input[type="button"]:hover{
-  background: #5029bc;
+  background: ##fec62b;
 }
 
 @media (max-width: 950px) {
