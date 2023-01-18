@@ -62,7 +62,7 @@ body{
 .content .left-side .details .text-one,
 .content .left-side .details .text-two{
   font-size: 14px;
-  color: #ff8907;
+  color: #9320207;
 }
 .container .content .right-side{
   width: 75%;
@@ -112,7 +112,7 @@ body{
   transition: all 0.3s ease;
 }
 .button input[type="button"]:hover{
-  background: ##fec62b;
+  background: #fec62b;
 }
 
 @media (max-width: 950px) {
